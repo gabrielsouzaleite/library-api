@@ -1,0 +1,11 @@
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\bin\Debug\net8.0\Library.Communication.deps.json
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\bin\Debug\net8.0\Library.Communication.dll
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\bin\Debug\net8.0\Library.Communication.pdb
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.AssemblyInfoInputs.cache
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.AssemblyInfo.cs
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.dll
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\refint\Library.Communication.dll
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.pdb
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\ref\Library.Communication.dll
