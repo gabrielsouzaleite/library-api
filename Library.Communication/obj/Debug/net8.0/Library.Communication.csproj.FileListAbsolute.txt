@@ -9,3 +9,4 @@ C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\De
 C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\refint\Library.Communication.dll
 C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.pdb
 C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\ref\Library.Communication.dll
+C:\Users\gabriel.leite\Documents\Gabriel\LibraryApi\Library.Communication\obj\Debug\net8.0\Library.Communication.sourcelink.json

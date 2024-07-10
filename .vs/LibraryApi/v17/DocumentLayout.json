@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A64692-4164-477B-BA6D-F794FC1B3425}|LibraryApi\\Library.Api.csproj|c:\\users\\gabriel.leite\\documents\\gabriel\\libraryapi\\libraryapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A64692-4164-477B-BA6D-F794FC1B3425}|LibraryApi\\Library.Api.csproj|solutionrelative:libraryapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB25D131-269A-4607-BD68-1D6FFBDC974D}|Library.Communication\\Library.Communication.csproj|c:\\users\\gabriel.leite\\documents\\gabriel\\libraryapi\\library.communication\\response\\responseallbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB25D131-269A-4607-BD68-1D6FFBDC974D}|Library.Communication\\Library.Communication.csproj|solutionrelative:library.communication\\response\\responseallbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB25D131-269A-4607-BD68-1D6FFBDC974D}|Library.Communication\\Library.Communication.csproj|c:\\users\\gabriel.leite\\documents\\gabriel\\libraryapi\\library.communication\\response\\responseshortbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB25D131-269A-4607-BD68-1D6FFBDC974D}|Library.Communication\\Library.Communication.csproj|solutionrelative:library.communication\\response\\responseshortbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +55,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseAllBooksJson.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\Library.Communication\\Response\\ResponseAllBooksJson.cs",
+              "RelativeDocumentMoniker": "Library.Communication\\Response\\ResponseAllBooksJson.cs",
+              "ToolTip": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\Library.Communication\\Response\\ResponseAllBooksJson.cs",
+              "RelativeToolTip": "Library.Communication\\Response\\ResponseAllBooksJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:20:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseShortBooksJson.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\Library.Communication\\Response\\ResponseShortBooksJson.cs",
+              "RelativeDocumentMoniker": "Library.Communication\\Response\\ResponseShortBooksJson.cs",
+              "ToolTip": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\Library.Communication\\Response\\ResponseShortBooksJson.cs",
+              "RelativeToolTip": "Library.Communication\\Response\\ResponseShortBooksJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:18:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\LibraryApi\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\gabriel.leite\\Documents\\Gabriel\\LibraryApi\\LibraryApi\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:01:56.387Z",
+              "EditorCaption": ""
             }
           ]
         }
